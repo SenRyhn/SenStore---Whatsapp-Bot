@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=35&duration=3000&pause=500&color=000000&background=8DBDC400&center=true&vCenter=true&random=false&width=435&lines=This+Repo+Was;Made+By+SenRyhn;or+SenR...;%3AD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=35&duration=3000&pause=500&color=F7E483FF&background=8DBDC400&center=true&vCenter=true&random=false&width=435&lines=This+Repo+Was;Made+By+SenRyhn;or+SenR...;%3AD" alt="Typing SVG" /></a>
 
 <p align="center">  
   <a href="https://github.com/SenRyhn"><img alt=SENR height="300" src="https://telegra.ph/file/67740444a10585f56ff12.jpg"></a> 
