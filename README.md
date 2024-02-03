@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=35&duration=3000&pause=500&color=000000&background=8DBDC400&center=true&vCenter=true&random=false&width=435&lines=This+Repo+Was;Made+By+SenRyhn;or+SenR...;%3AD" alt="Typing SVG" /></a>
 
-<p align="left">  
+<p align="center">  
   <a href="https://github.com/SenRyhn">
     <img alt=SENR height="300" src="https://telegra.ph/file/67740444a10585f56ff12.jpg">
    
@@ -13,26 +13,29 @@
 
 ####
 #### Project Lucia By SenR
+<p align="left">
   <a href="https://github.com/SenRyhn"><img title="Me / The Creator" src="https://img.shields.io/badge/Visit Me-h?color=black&style=for-the-badge&logo=GitHub"></a>
 
 #### SETUP
+<p align="left">
 Fork This Repo
     <br>
 <a href="https://github.com/SenRyhn/SenStore---Whatsapp-Bot/fork"><img title="> Fork Here <" src="https://img.shields.io/badge/> Fork Here <-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 -
 ### Deploy On Codespace
-
+<p align="left">
 <a href="https://github.com/codespaces/new"><img title="Deploy on CodeSpace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode"></a>
 
 -
 ## Support
-
+<p align="left">
 Join My Groups: 
 - <a href="https://chat.whatsapp.com/FCHvxQ7YcAsKZgASUsaNba"><img title="WhatsApp" src="https://img.shields.io/badge/Use%20WhatsApp-h?color=green&style=for-the-badge&logo=WhatsApp"/></a>
-
+<p align="left">
 Support me By Donating??
 - <a href="https://paypal.me/SenRyhn?country.x=ID&locale.x=id_ID"><img title="Donate" src="https://img.shields.io/badge/Use%20PayPal-h?color=blue&style=for-the-badge&logo=PayPal"></a>
+  <p align="left">
 - <a href="https://saweria.co/SenR"><img title="Donate" src="https://img.shields.io/badge/Use%20Saweria-h?color=orange&style=for-the-badge&logo=Saweria"></a>
 
 
