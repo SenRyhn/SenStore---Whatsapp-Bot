@@ -1,0 +1,23 @@
+{
+  "name": "SC Bot by SenStore\n> SC Version ",
+  "version": "5.1.9\n> Report Problem : senstore.official.id@gmail.com\n> npm:",
+  "description": "Made By SenR",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "node test",
+    "code": "node index --useCODE"
+  },
+  "keywords": [],
+  "author": "SenRyhn",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "jimp": "^0.16.13",
+    "link-preview-js": "^3.0.5",
+    "node-webpmux": "^3.2.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
