@@ -12,31 +12,36 @@
 <a 
 
 ####
-#### Project Lucia By SenR
 <p align="left">
+  
+#### Project Lucia By SenR
   <a href="https://github.com/SenRyhn"><img title="Me / The Creator" src="https://img.shields.io/badge/Visit Me-h?color=black&style=for-the-badge&logo=GitHub"></a>
 
+<p align="left">
+  
 #### SETUP
 <p align="left">
 Fork This Repo
     <br>
 <a href="https://github.com/SenRyhn/SenStore---Whatsapp-Bot/fork"><img title="> Fork Here <" src="https://img.shields.io/badge/> Fork Here <-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
--
+<p align="left">
+  
 ### Deploy On Codespace
 <p align="left">
 <a href="https://github.com/codespaces/new"><img title="Deploy on CodeSpace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode"></a>
 
--
+<p align="left">
+  
 ## Support
 <p align="left">
 Join My Groups: 
-- <a href="https://chat.whatsapp.com/FCHvxQ7YcAsKZgASUsaNba"><img title="WhatsApp" src="https://img.shields.io/badge/Use%20WhatsApp-h?color=green&style=for-the-badge&logo=WhatsApp"/></a>
+ <a href="https://chat.whatsapp.com/FCHvxQ7YcAsKZgASUsaNba"><img title="WhatsApp" src="https://chat.whatsapp.com/FCHvxQ7YcAsKZgASUsaNba"/></a>
 <p align="left">
 Support me By Donating??
-- <a href="https://paypal.me/SenRyhn?country.x=ID&locale.x=id_ID"><img title="Donate" src="https://img.shields.io/badge/Use%20PayPal-h?color=blue&style=for-the-badge&logo=PayPal"></a>
+- <a href="https://paypal.me/SenRyhn?country.x=ID&locale.x=id_ID"><img title="Donate" src="https://paypal.me/SenRyhn?country.x=ID&locale.x=id_ID"></a>
   <p align="left">
-- <a href="https://saweria.co/SenR"><img title="Donate" src="https://img.shields.io/badge/Use%20Saweria-h?color=orange&style=for-the-badge&logo=Saweria"></a>
+- <a href="https://saweria.co/SenR"><img title="Donate" src="https://saweria.co/SenR"></a>
 
 
 
