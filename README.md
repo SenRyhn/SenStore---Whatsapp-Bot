@@ -23,6 +23,16 @@
 <a href="https://github.com/codespaces/new"><img title="Deploy on CodeSpace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode"></a>
 ##
 
+##  
+## [ Complex Way But Better ]
+#### (1) Copy This Repo Link
+#### (2) Go To DownGit
+<a href="https://downgit.github.io/#/home"><img title="Go To DownGit" src="https://img.shields.io/badge/Go%20To%20DownGit-h?color=black&style=for-the-badge&logo=GitHub"></a>
+#### (3) Contact This Number (WhatsApp)
+<a href="https://wa.me/62895617480503?text=Hey+I+Want+To+Buy+Bot+WhatsApp+Panel.+So,+Give+Me+The+Price+List.+"><img title="WhatsApp" src="https://img.shields.io/badge/WhatsApp-h?color=black&style=for-the-badge&logo=WhatsApp"></a>
+#### Wait Until They Response to your message, and just follow their next instruction.
+##
+
 ##
 ## [ Support ]
 
@@ -32,7 +42,7 @@
 #### *Donate Using PayPal:*
 <a href="https://paypal.me/SenRyhn?country.x=ID&locale.x=id_ID"><img title="PayPal" src="https://img.shields.io/badge/Use%20PayPal-h?color=black&style=for-the-badge&logo=PayPal"></a>
 
-#### **Donate Using QR (Non USD):**
+#### *Donate Using QR (Non USD):*
 <a href="https://saweria.co/SenR"><img title="Saweria" src="https://img.shields.io/badge/Scan%20QR To Pay-h?color=black&style=for-the-badge&logo=BitCoin"></a>
 ## 
 
