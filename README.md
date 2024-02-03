@@ -36,12 +36,12 @@ Fork This Repo
 ## Support
 <p align="left">
 Join My Groups: 
- <a href="https://chat.whatsapp.com/FCHvxQ7YcAsKZgASUsaNba"><txt title="WhatsApp" src="https://chat.whatsapp.com/FCHvxQ7YcAsKZgASUsaNba"/></a>
+ <a href="https://chat.whatsapp.com/FCHvxQ7YcAsKZgASUsaNba" title="WhatsApp" src="https://chat.whatsapp.com/FCHvxQ7YcAsKZgASUsaNba"/></a>
 <p align="left">
 Support me By Donating??
-- <a href="https://paypal.me/SenRyhn?country.x=ID&locale.x=id_ID"><txt title="PayPal" src="https://paypal.me/SenRyhn?country.x=ID&locale.x=id_ID"></a>
+- <a href="https://paypal.me/SenRyhn?country.x=ID&locale.x=id_ID" title="PayPal" src="https://paypal.me/SenRyhn?country.x=ID&locale.x=id_ID"></a>
   <p align="left">
-- <a href="https://saweria.co/SenR"><txt title="Saweria" src="https://saweria.co/SenR"></a>
+- <a href="https://saweria.co/SenR" title="Saweria" src="https://saweria.co/SenR"></a>
 
 
 
