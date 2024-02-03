@@ -11,6 +11,7 @@
 <dif align="left">
   
 ## [ SETUP ]
+
 #### (1)Fork This Repotories
 <a href="https://github.com/SenRyhn/SenStore---Whatsapp-Bot/fork"><img title="> Fork Here <" src="https://img.shields.io/badge/> Fork Here <-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
@@ -20,6 +21,7 @@
 
 ##  
 ## [ Complex Way But Better ]
+
 #### (1) Copy This Repo Link
 #### (2) Go To DownGit
 <a href="https://downgit.github.io/#/home"><img title="Go To DownGit" src="https://img.shields.io/badge/Go%20To%20DownGit-h?color=black&style=for-the-badge&logo=GitHub"></a>
@@ -29,6 +31,7 @@
 ##
 
 ##
+
 ## [ Support ]
 
 #### *Join My Groups:*
@@ -42,5 +45,7 @@
 ## 
 
 ## 
+
 ## [ *NOTE* ]
+
 ### If you're uploading or using anything from here, give credits. Otherwise, i'll ENCRYPT all of the new/updated file.. including the one are not uploaded yet !
