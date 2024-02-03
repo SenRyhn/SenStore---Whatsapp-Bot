@@ -14,13 +14,14 @@
 ####
 <p align="left">
   
-#### Project Lucia By SenR
+#### Is Made By SenR
   <a href="https://github.com/SenRyhn"><img title="Me / The Creator" src="https://img.shields.io/badge/Visit Me-h?color=black&style=for-the-badge&logo=GitHub"></a>
 
 <p align="left">
   
 #### SETUP
 <p align="left">
+  
 Fork This Repo
     <br>
 <a href="https://github.com/SenRyhn/SenStore---Whatsapp-Bot/fork"><img title="> Fork Here <" src="https://img.shields.io/badge/> Fork Here <-h?color=black&style=for-the-badge&logo=stackshare"></a>
