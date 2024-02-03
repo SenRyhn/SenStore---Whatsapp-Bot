@@ -16,20 +16,20 @@
 ## 
 ##  
 ### [ SETUP ]
-#### *(1)Fork This Repo*
+#### (1)Fork This Repotories
 <a href="https://github.com/SenRyhn/SenStore---Whatsapp-Bot/fork"><img title="> Fork Here <" src="https://img.shields.io/badge/> Fork Here <-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
-#### *(2)Deploy On Codespace*
+#### (2)Deploy On Codespace
 <a href="https://github.com/codespaces/new"><img title="Deploy on CodeSpace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode"></a>
 ##
 
 ##
 #### [ Support ]
 
-**Join My Groups:** 
+#### *Join My Groups:*
 <a href="https://chat.whatsapp.com/FCHvxQ7YcAsKZgASUsaNba"><img title="WhatsApp" src="https://img.shields.io/badge/My%20Community-h?color=black&style=for-the-badge&logo=WhatsApp"></a>
 
-**Donate Using PayPal:**
+#### *Donate Using PayPal:*
 <a href="https://paypal.me/SenRyhn?country.x=ID&locale.x=id_ID"><img title="PayPal" src="https://img.shields.io/badge/Use%20PayPal-h?color=black&style=for-the-badge&logo=PayPal"></a>
 
 **Donate Using QR (Non USD):**
